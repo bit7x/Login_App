@@ -53,3 +53,6 @@ c:\users\hirunika_lp\documents\visual studio 2013\Projects\Login_App\Login_App\b
 c:\users\hirunika_lp\documents\visual studio 2013\Projects\Login_App\Login_App\obj\Debug\Login_App.csprojResolveAssemblyReference.cache
 c:\users\hirunika_lp\documents\visual studio 2013\Projects\Login_App\Login_App\obj\Debug\Login_App.dll
 c:\users\hirunika_lp\documents\visual studio 2013\Projects\Login_App\Login_App\obj\Debug\Login_App.pdb
+C:\Users\Hirunika_LP\Documents\Login_App\Login_App\obj\Debug\Login_App.csprojResolveAssemblyReference.cache
+C:\Users\Hirunika_LP\Documents\Login_App\Login_App\obj\Debug\Login_App.dll
+C:\Users\Hirunika_LP\Documents\Login_App\Login_App\obj\Debug\Login_App.pdb
